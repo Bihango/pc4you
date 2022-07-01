@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pc4you/static/css/main.0d1eb506.css",
+    "main.js": "/pc4you/static/js/main.92884621.js",
+    "static/media/rec-3.png": "/pc4you/static/media/rec-3.645ae22a7a7eaa3149bc.png",
+    "static/media/rec-1.png": "/pc4you/static/media/rec-1.9ad6c19385547601043e.png",
+    "static/media/rec-2.png": "/pc4you/static/media/rec-2.ede383b310471d690dc7.png",
+    "static/media/user-3.png": "/pc4you/static/media/user-3.0545ac10975b8fc79372.png",
+    "static/media/user-1.png": "/pc4you/static/media/user-1.b32ddc3627970b669685.png",
+    "static/media/user-2.png": "/pc4you/static/media/user-2.f5186bbab23136f668cf.png",
+    "index.html": "/pc4you/index.html",
+    "main.0d1eb506.css.map": "/pc4you/static/css/main.0d1eb506.css.map",
+    "main.92884621.js.map": "/pc4you/static/js/main.92884621.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d1eb506.css",
+    "static/js/main.92884621.js"
+  ]
+}
