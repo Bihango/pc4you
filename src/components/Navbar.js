@@ -66,7 +66,7 @@ function Navbar() {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                About 
+                FAQ 
               </Link>
             </li>
 
