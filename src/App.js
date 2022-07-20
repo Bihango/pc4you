@@ -15,7 +15,7 @@ import Cpu3700x from './components/pages/browsecrumbs/Cpu3700x';
 //////
 import GpuTest from './components/pages/GpuTest';
 import Homepage from './components/pages/pc4you';
-import Recommendations from './components/pages/Reccomendations';
+import Recommendations from './components/pages/Recommendations';
 
 
 

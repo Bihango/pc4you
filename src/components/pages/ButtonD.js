@@ -6,30 +6,26 @@ const STYLES = ['btn--primary', 'btn--outline'];
 
 const SIZES = ['btn--medium', 'btn--large'];
 
-export const Button = ({
-    children, 
-    type, 
-    onClick, 
-    buttonStyle, 
-    buttonSize
-}) => {
-    const checkButtonStyle = STYLES.includes(buttonStyle) 
-    ? buttonStyle 
+export const Button = (props) => {
+    const checkButtonStyle = STYLES.includes(props.buttonStyle) 
+    ? props.buttonStyle 
     : STYLES[0]
 
-    const checkButtonSize = SIZES.includes(buttonSize)
-    ? buttonSize
+    const checkButtonSize = SIZES.includes(props.buttonSize)
+    ? props.buttonSize
     : SIZES[0]
 
-
+    function handleClick(){
+        console.log(props.link)
+    }
+    
     return(
-        <Link to='/standards' className='btn-mobile'>
+        <Link to={props.link} className='btn-mobile'>
             <button
             className={`btn ${checkButtonStyle} ${checkButtonSize}`}
-            onClick= {onClick}
-            type={type}
+            onClick= {handleClick}
             >
-                {children}
+                {props.text}
             </button>
         </Link>
     )

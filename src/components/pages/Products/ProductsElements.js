@@ -44,7 +44,7 @@ export const ProductInfo = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 2rem;
+  padding: 1rem;
   text-align: center;
 `;
 
@@ -52,8 +52,8 @@ export const ProductDesc = styled.p`
   margin-bottom: 1rem;
 `;
 
-export const ProductPrice = styled.p`
+export const ProductPrice = styled.h2`
   margin-bottom: 1rem;
-  font-size: 2rem;
+  font-size: 1.3rem;
 `;
 

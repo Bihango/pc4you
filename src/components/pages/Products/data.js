@@ -23,7 +23,7 @@ export const productData = [
     alt: 'User',
     name: 'Casual Gamer',
     desc:
-      'A person who plays games occasionally and does not need all the latest and greatest technology',
+      'A person who plays games occasionally and does not need all the latest and greatest technology to have a good experience',
     path: '/standards'
   },
   {
@@ -31,7 +31,7 @@ export const productData = [
     alt: 'User',
     name: 'Pro Gamer',
     desc:
-      'A person who plays games competitively and needs the best hardware that will give them an edge on their oppenents',
+      'A person who plays games competitively and needs the best hardware that will give them a competetive edge against their oppenents',
     path: '/standards'
   },
   {
@@ -39,7 +39,7 @@ export const productData = [
     alt: 'User',
     name: 'Streamer',
     desc:
-      'A person who streams their games and needs the hardware that will let them focous on creating their content',
+      'A person who streams their games and wants to ensure the best quality for their viewers so they can focous on content creation ',
     path: '/standards' 
   }
 ];
@@ -62,7 +62,7 @@ export const productDataTwo = [
     name: 'QHD ',
     desc:
       'Select this option if you would primarily game at 1440p and have a monitor that is 27 to 32 inches in size',
-    path: '/reccomendations'
+    path: '/recommendations'
   },
   {
     img: std3,
@@ -70,7 +70,7 @@ export const productDataTwo = [
     name: '4k ',
     desc:
       'Select this option if you would primarily game at 2160p and have a monitor that is 27 inches or greater in size',
-    path: '/reccomendations'
+    path: '/recommendations'
   }
 ];
 
@@ -83,16 +83,16 @@ export const productDataThree = [
     alt: 'PC',
     name: 'Diamond Preset',
     desc:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ut labore et dolore magna aliqua.',
+      'Features a RTX 3080, Ryzen 5 5700X, 1TB SSD, 750W PSU, 16GB Ram and ',
     price: '$1999.99',
     path: '/customize'
   },
   {
     img: rec2,
     alt: 'PC',
-    name: 'Iridium Preset',
+    name: 'Platinum Preset',
     desc:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ut labore et dolore magna aliqua.',
+      'Features a RTX 3080TI, Ryzen 5 5800, 1TB SSD 800W PSU, 32GB Ram and  ',
     price: '$2499.99',
     path: '/customize'
   },
@@ -101,7 +101,7 @@ export const productDataThree = [
     alt: 'PC',
     name: 'Titanium Preset',
     desc:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ut labore et dolore magna aliqua.',
+      'Features a RTX 3090, Ryzen 9 5900X, 2TB SSD 1000 Watt PSU, 32GB Ram and ',
     price: '$2999.99',
     path: '/customize'
   }
