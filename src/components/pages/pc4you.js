@@ -4,15 +4,10 @@ import '../../App.css'
 import HeroSection from '../HeroSection'
 import Cards from '../Cards';
 
-
-
-
-
 function Homepage(){
     return(
         <>
             <HeroSection/>
-
             <Cards/>
         </>
     )

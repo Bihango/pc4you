@@ -1,7 +1,6 @@
 import React from 'react';
 import Products from './Products';
-import { productData, productDataTwo,productDataThree } from './Products/data';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { productDataThree } from './Products/data';
 import '../../App.css'
 
 export default function Reccomendations() {

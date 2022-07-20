@@ -55,10 +55,11 @@ const Dropdown = styled.div`
   border-top: 1px solid #BD11FA;
 
   p {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 `;
 
+//actual code
 const Accordion = () => {
   const [clicked, setClicked] = useState(false);
 

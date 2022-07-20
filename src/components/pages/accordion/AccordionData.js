@@ -10,5 +10,14 @@ export const Data = [
     {
       question: 'What did the astronaut say when he crashed into the moon?',
       answer: 'I Apollo-gize.'
+    },
+    {
+      question: 'What did the astronaut say when he crashed into the moon?',
+      answer: 'I Apollo-gize.'
+    },
+    {
+      question: 'What did the astronaut say when he crashed into the moon?',
+      answer: 'I Apollo-gize.'
     }
+    
   ];

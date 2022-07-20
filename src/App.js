@@ -13,7 +13,6 @@ import Cpus from './components/pages/browsecrumbs/Cpus';
 import Standards from './components/pages/Standards';
 import Cpu3700x from './components/pages/browsecrumbs/Cpu3700x';
 //////
-import GpuTest from './components/pages/GpuTest';
 import Homepage from './components/pages/pc4you';
 import Recommendations from './components/pages/Recommendations';
 
