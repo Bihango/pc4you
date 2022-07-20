@@ -14,6 +14,8 @@ import Standards from './components/pages/Standards';
 import Cpu3700x from './components/pages/browsecrumbs/Cpu3700x';
 //////
 import GpuTest from './components/pages/GpuTest';
+import Homepage from './components/pages/pc4you';
+import Recommendations from './components/pages/Reccomendations';
 
 
 
@@ -29,11 +31,13 @@ function App() {
         <Route path='/browse' element={<Browse />}/>
         <Route path='/discover' element={<Discover />}/>
         <Route path='/standards' element={<Standards />}/>
+        <Route path='/recommendations' element={<Recommendations />}/>
         <Route path='/about' element={<About />}/>
         <Route path='/cart' element={<Cart />}/>
         <Route path='/customize' element={<Customize />}/>
         <Route path='/cpus' element={<Cpus />}/>
-        <Route path='/cpu3700x' element={<Cpu3700x />}/>
+        <Route path='/cpu3700x' element={<Cpu3700x />}/>       
+        <Route path='/pc4you' element={<Homepage />}/>
         </Routes>
       </Router> 
     </>

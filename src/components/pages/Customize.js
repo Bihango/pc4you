@@ -2,9 +2,8 @@ import React, {useState} from 'react';
 import '../../App.css'
 
 
-
 import GpuTest from './GpuTest';
-
+//<GpuTest/> 
 
 
 function Customize(){
@@ -14,7 +13,8 @@ function Customize(){
 
     return(
         <>
-            <GpuTest/>
+            
+            
         </>
     )
 }

@@ -30,7 +30,7 @@ const Products = ({ heading, data }) => {
                 <ProductTitle>{product.name}</ProductTitle>
                 <ProductDesc>{product.desc}</ProductDesc>
                 <ProductPrice>{product.price}</ProductPrice>
-                <Button Link to ={product.path} className='btns' buttonStyle='btn--primary' buttonSize='btn--large'> Select</Button>
+                <Button Link to ='product.path' className='btns' buttonStyle='btn--primary' buttonSize='btn--large'> Select</Button>
               </ProductInfo>
             </ProductCard>
           );

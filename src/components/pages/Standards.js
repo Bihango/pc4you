@@ -7,7 +7,7 @@ import '../../App.css'
 export default function Standards() {
     return (
         <>
-            <Products heading='The Perfect Desktops For You' data={productDataTwo} />
+            <Products heading='Select Your Standard' data={productDataTwo} />
         </>
     );
 }
