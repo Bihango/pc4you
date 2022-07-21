@@ -32,24 +32,10 @@ export function Browse() {
               </div>
             </div>
 
-            <div class='browse-link-items'>
-                <h1>Components</h1>
-                <h2><h6><br></br></h6>
-                <Link to='/cpus'>CPUs</Link><br></br>
-                <Link to='/cpus'>Mobos</Link><br></br>
-                <Link to='/cpus'>GPUs</Link><br></br>
-                <Link to='/cpus'>PSUs</Link><br></br>
-                <Link to='/cpus'>Cooling</Link><br></br>
-                <Link to='/cpus'>Storage</Link>
-                </h2>
-              </div>
             
             </div>
           </div>  
-          
         </div>
-        
-        <h7>note: only CPU breadcrumbs work right now</h7>
         </div>
         
       );

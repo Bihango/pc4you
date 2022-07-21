@@ -5,7 +5,7 @@ import CardItem from './CardItem';
 function Cards() {
   return (
     <div className='cards'>
-      <h1>Click to Check Out Our Popular Preconfigured Models</h1>
+      <h1>Click To Check Out Popular Models</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
@@ -28,6 +28,7 @@ function Cards() {
               path='/customize'
             />
           </ul>
+          
         </div>
       </div>
     </div>

@@ -1,23 +1,23 @@
 export const Data = [
     {
-      question: 'What do you call a dog magician?',
-      answer: 'A labracadabrador.'
+      question: 'How do I find the PC that is right for me?',
+      answer: 'Use our Discover tool that allows users to find the best PC for them by entering several parameters'
     },
     {
-      question: 'What do you call a funny mountain?',
-      answer: 'Hill-arious.'
+      question: 'How do I check if all the parts I selected in the PC Customizer are compatible with each other?',
+      answer: 'Every component available for customization has been checked and verified to be compatible with eachother.'
     },
     {
-      question: 'What did the astronaut say when he crashed into the moon?',
-      answer: 'I Apollo-gize.'
+      question: 'Question?                                                            ',
+      answer: 'Response.'
     },
     {
-      question: 'What did the astronaut say when he crashed into the moon?',
-      answer: 'I Apollo-gize.'
+      question: 'Question?                                                            ',
+      answer: 'Response.'
     },
     {
-      question: 'What did the astronaut say when he crashed into the moon?',
-      answer: 'I Apollo-gize.'
+      question: 'Question?                                                            ',
+      answer: 'Response.'
     }
     
   ];

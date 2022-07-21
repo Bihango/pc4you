@@ -4,6 +4,8 @@ import styled from 'styled-components';
 import { IconContext } from 'react-icons';
 import { FiPlus, FiMinus } from 'react-icons/fi';
 
+//fix the margin of the box and the overall colors
+
 
 //css
 const AccordionSection = styled.div`
@@ -44,7 +46,7 @@ const Wrap = styled.div`
 
 const Dropdown = styled.div`
   background: #1c1c1c;
-  color: #46C2FF;
+  color: #fff;
   width: 100%;
   height: 100px;
   display: flex;

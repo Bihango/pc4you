@@ -1,0 +1,79 @@
+heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: clamp(2rem,2.5vw,3rem);
+    text-align: center;
+    margin-top: 2rem;
+  }
+
+#specs2 {
+    margin-right: 200px;
+  }
+  #specs1 {
+    margin-right: 150px;
+  }
+  #specs4 {
+    margin-right: 215px;
+  }
+  #specs3 {
+    margin-right: 115px;
+  }
+
+ 
+#processor {
+    position: absolute;
+    height: 90px;
+    top: 270px;
+    left: 900px;
+}
+
+#motherboard {
+    position: absolute;
+    height: 350px;
+    top: 250px;
+    left: 490px;
+}
+
+#case {
+    position: absolute;
+    top: 250px;
+    left: 50px;
+    height: 500px;
+}
+
+#graphic {
+    position: absolute;
+    width: 250px;
+    top: 620px;
+    left: 610px;
+}
+
+#ssd {
+    position: absolute;
+    height: 40px;
+    left: 880px;
+    top: 620px;
+    transform: rotate(270deg);
+  }
+
+  #ram {
+    position: absolute;
+    width: 200px;
+    top: 255px;
+    left: 1030px;
+  }
+
+  #cool{
+    position: absolute;
+    height: 370px;
+    top: 290px;
+    left: 900px;
+  }
+
+  #power {
+    position: absolute;
+    height: 200px;
+    top: 550px;
+    left: 1030px;
+  }

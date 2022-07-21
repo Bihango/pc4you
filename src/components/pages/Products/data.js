@@ -10,9 +10,6 @@ import rec1 from '../images/rec-1.png';
 import rec2 from '../images/rec-2.png';
 import rec3 from '../images/rec-3.png';
 
-import { Button } from '../Button';
-
-import { Link } from 'react-router-dom';
 
 
 // User type
@@ -39,7 +36,7 @@ export const productData = [
     alt: 'User',
     name: 'Streamer',
     desc:
-      'A person who streams their games and wants to ensure the best quality for their viewers so they can focous on content creation ',
+      'A person who streams their games and wants to ensure the best quality for their viewers so they can focus on content creation ',
     path: '/standards' 
   }
 ];
@@ -83,7 +80,7 @@ export const productDataThree = [
     alt: 'PC',
     name: 'Diamond Preset',
     desc:
-      'Features a RTX 3080, Ryzen 5 5700X, 1TB SSD, 750W PSU, 16GB Ram and ',
+      'Features a RTX 3080, Ryzen 5 5700X, 1TB SSD, 750W PSU and 16GB Ram  ',
     price: '$1999.99',
     path: '/customize'
   },
@@ -92,7 +89,7 @@ export const productDataThree = [
     alt: 'PC',
     name: 'Platinum Preset',
     desc:
-      'Features a RTX 3080TI, Ryzen 5 5800, 1TB SSD 800W PSU, 32GB Ram and  ',
+      'Features a RTX 3080TI, Ryzen 5 5800, 1TB SSD 800W PSU and 32GB Ram  ',
     price: '$2499.99',
     path: '/customize'
   },
@@ -101,7 +98,7 @@ export const productDataThree = [
     alt: 'PC',
     name: 'Titanium Preset',
     desc:
-      'Features a RTX 3090, Ryzen 9 5900X, 2TB SSD 1000 Watt PSU, 32GB Ram and ',
+      'Features a RTX 3090, Ryzen 9 5900X, 2TB SSD 1000 Watt PSU and 32GB Ram ',
     price: '$2999.99',
     path: '/customize'
   }
