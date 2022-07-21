@@ -20,30 +20,17 @@
 }
 
 .browse {
-  background-image: url("https://i.imgur.com/OfyrIA0.jpg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
 }
 
 .discover {
   margin-top: -0.001px;
-  background-image: url("https://i.imgur.com/OfyrIA0.jpg");
-  background-position: center;
-  background-size: fill;
-  background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
 }
 
 .about{
-  background-image: url("https://i.imgur.com/ONFXQdV.jpg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
   font-size: 100px;
   margin-top: -0.001px;
 }
@@ -60,10 +47,6 @@
 }
 
 .customize {
-  background-image: url("https://i.imgur.com/LJ4aUpA.jpg");
-  background-position: fill;
-  background-size: cover;
-  background-repeat: no-repeat;
   color: #fff;
   font-size: 100p;
 }

@@ -4,6 +4,9 @@ import styled from 'styled-components';
 import { IconContext } from 'react-icons';
 import { FiPlus, FiMinus } from 'react-icons/fi';
 
+
+import './Accordion.css'
+
 //fix the margin of the box and the overall colors
 
 
@@ -14,9 +17,8 @@ const AccordionSection = styled.div`
   align-items: center;
   justify-content: center;
   position: relative;
-  height: 100vh;
+  margin-top: 50px;
   background: #fff;
-  margin-top: -240px;
 
 `;
 
@@ -79,7 +81,7 @@ const Accordion = () => {
   };
 
   return (
-    
+    <body>
     <IconContext.Provider value={{ color: '#BD11FA', size: '25px' }}>
       <AccordionSection>
         <Container>
@@ -101,6 +103,7 @@ const Accordion = () => {
         </Container>
       </AccordionSection>
     </IconContext.Provider>
+    </body>
   );
 };
 
