@@ -1,22 +1,47 @@
 {
   "files": {
-    "main.css": "/pc4you/static/css/main.0d1eb506.css",
-    "main.js": "/pc4you/static/js/main.7133a152.js",
+    "main.css": "/pc4you/static/css/main.c8231755.css",
+    "main.js": "/pc4you/static/js/main.fb36d596.js",
+    "static/media/asus.png": "/pc4you/static/media/asus.5841df476e56b01a3331.png",
+    "static/media/z73.png": "/pc4you/static/media/z73.6d792942bd4eea5477fb.png",
+    "static/media/gigam.png": "/pc4you/static/media/gigam.cf12cc980ae594bbb4f1.png",
+    "static/media/msib.png": "/pc4you/static/media/msib.3fedbebd0ccd236dfa78.png",
+    "static/media/red.png": "/pc4you/static/media/red.c8162ef5cbc0a3401c9c.png",
     "static/media/rec-3.png": "/pc4you/static/media/rec-3.645ae22a7a7eaa3149bc.png",
+    "static/media/wd.png": "/pc4you/static/media/wd.04f675aad503ec2b18c6.png",
+    "static/media/3070.png": "/pc4you/static/media/3070.4b71cf74efca018cf55f.png",
+    "static/media/5600x.png": "/pc4you/static/media/5600x.400593a0db57a3d4d41a.png",
+    "static/media/5800x.png": "/pc4you/static/media/5800x.df5e9a2b7d0742de2674.png",
+    "static/media/3080.png": "/pc4you/static/media/3080.cd35f0505f05616e268b.png",
+    "static/media/white.png": "/pc4you/static/media/white.6e10655910cb5a8c9568.png",
+    "static/media/sam.png": "/pc4you/static/media/sam.4330670cd77ce04608cc.png",
+    "static/media/black.png": "/pc4you/static/media/black.c368b42a9009e7a07489.png",
     "static/media/rec-1.png": "/pc4you/static/media/rec-1.9ad6c19385547601043e.png",
+    "static/media/evgap.png": "/pc4you/static/media/evgap.0390718e01653597261e.png",
+    "static/media/mus.png": "/pc4you/static/media/mus.f3dee489840d085c35c7.png",
+    "static/media/z63.png": "/pc4you/static/media/z63.5ea9ed0cf30cc487c10e.png",
+    "static/media/3600.png": "/pc4you/static/media/3600.aa40c369d46f39397fd3.png",
     "static/media/rec-2.png": "/pc4you/static/media/rec-2.ede383b310471d690dc7.png",
+    "static/media/3060.png": "/pc4you/static/media/3060.8cc936b9fa2ab13649aa.png",
+    "static/media/thermp.png": "/pc4you/static/media/thermp.9fb7858deaa6ac0a5fb2.png",
+    "static/media/120.png": "/pc4you/static/media/120.ca3d7cfa0225a075c55d.png",
+    "static/media/asusp.png": "/pc4you/static/media/asusp.2ca41de40382d28a686a.png",
+    "static/media/gsk.png": "/pc4you/static/media/gsk.22632797f5364e0c1cf4.png",
+    "static/media/hyper.png": "/pc4you/static/media/hyper.b63547cfc1ce9a414529.png",
+    "static/media/cor.png": "/pc4you/static/media/cor.1bc511e43377a42a79fc.png",
     "static/media/std-1.png": "/pc4you/static/media/std-1.b6da809a92ea76a43ca3.png",
     "static/media/std-2.png": "/pc4you/static/media/std-2.87051f938218e63b178f.png",
     "static/media/std-3.png": "/pc4you/static/media/std-3.e124538a5d1acb0e6eb3.png",
     "static/media/user-3.png": "/pc4you/static/media/user-3.0545ac10975b8fc79372.png",
     "static/media/user-1.png": "/pc4you/static/media/user-1.b32ddc3627970b669685.png",
     "static/media/user-2.png": "/pc4you/static/media/user-2.f5186bbab23136f668cf.png",
+    "static/media/glass.png": "/pc4you/static/media/glass.296a40bab5342e292d1b.png",
     "index.html": "/pc4you/index.html",
-    "main.0d1eb506.css.map": "/pc4you/static/css/main.0d1eb506.css.map",
-    "main.7133a152.js.map": "/pc4you/static/js/main.7133a152.js.map"
+    "main.c8231755.css.map": "/pc4you/static/css/main.c8231755.css.map",
+    "main.fb36d596.js.map": "/pc4you/static/js/main.fb36d596.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d1eb506.css",
-    "static/js/main.7133a152.js"
+    "static/css/main.c8231755.css",
+    "static/js/main.fb36d596.js"
   ]
 }
