@@ -13,19 +13,19 @@ function Cards() {
               img src="https://i.imgur.com/ivZUoJB.jpg"
               text='Emerald Preset PC Starting at            $999'
               label='Basic'
-              path='/customize'
+              path='/emeraldpreset'
             />
             <CardItem
               img src="https://i.imgur.com/H93ew36.jpg"
               text='Sapphaire Preset PC Starting at          $1599'
               label='Professional'
-              path='/customize'
+              path='/sapphairepreset'
             />
             <CardItem
               img src="https://i.imgur.com/b3oQ9Jd.jpg"
               text='Platinum Preset PC Starting at           $2499'
               label='Enthusiast'
-              path='/customize'
+              path='/platinumpreset'
             />
           </ul>
           

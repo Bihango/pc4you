@@ -24,9 +24,8 @@ export function Browse() {
               <h1>Components</h1>
                 <h2><h6><br></br></h6>
                 <Link to='/cpus'>CPUs</Link><br></br>
-                <Link to='/cpus'>Mobos</Link><br></br>
-                <Link to='/cpus'>GPUs</Link><br></br>
-                <Link to='/cpus'>PSUs</Link><br></br>
+                <Link to='/gpus'>GPUs</Link><br></br>
+                <Link to='/mobos'>Mobos</Link><br></br>
                 </h2>
               </div>
             </div>

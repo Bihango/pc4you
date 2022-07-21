@@ -15,6 +15,22 @@ import saph from '../images/saph.png';
 import emr from '../images/emr.png';
 
 
+import cpu3600 from '../images/3600.png';
+import cpu5600x from '../images/5600x.png';
+import cpu5800x from '../images/5800x.png';
+
+
+import gpu3080 from '../images/3080.jpg';
+import gpu3070 from '../images/3070.jpg';
+import gpu3060 from '../images/3060.jpg';
+
+
+import masus from '../images/masus.jpg';
+import mgiga from '../images/mgiga.jpg';
+import mmsi from '../images/mmsi.jpg';
+
+
+
 
 // User type
 
@@ -109,6 +125,7 @@ export const productDataThree = [
 
 ];
 
+//custom pcs
 
 export const productDataPlatinum = [
   {
@@ -144,6 +161,123 @@ export const productDataEmerald = [
     desc:
       'Features a RTX 3060, Ryzen 5 3600x, 500GB SSD 650W PSU and 16GB Ram  ',
     price: '$999.99',
+    path: '/cart'
+  },
+];
+
+
+//cpu
+export const productData3600 = [
+  {
+    img: cpu3600,
+    alt: 'PC',
+    name: 'AMD Ryzen 5 3600 ',
+    desc:
+      '6 cores and 12 processing threads bundled with the quiet AMD wraith stealth cooler',
+    price: '$199.99',
+    path: '/cart'
+  },
+];
+
+
+export const productData5600x = [
+  {
+    img: cpu5600x,
+    alt: 'PC',
+    name: 'AMD Ryzen 5 5600X',
+    desc:
+      "AMD's fastest 6 core processor for mainstream desktop, with 12 processing threads",
+    price: '$269.99',
+    path: '/cart'
+  },
+];
+
+
+export const productData5800x = [
+  {
+    img: cpu5800x,
+    alt: 'PC',
+    name: 'AMD Ryzen 5 5800X',
+    desc:
+      "AMD's fastest 8 core processor for mainstream desktop, with 16 procesing threads",
+    price: '$399.99',
+    path: '/cart'
+  },
+];
+
+//gpus
+
+export const productData3080 = [
+  {
+    img: gpu3080,
+    alt: 'PC',
+    name: 'NVIDIA GeForce RTX 3080 ',
+    desc:
+      'Features 10GB of GDDR6X memory and clock speeds of up to 1710MHz',
+    price: '$1029.99',
+    path: '/cart'
+  },
+];
+
+export const productData3070 = [
+  {
+    img: gpu3070,
+    alt: 'PC',
+    name: 'GIGABYTE GeForce RTX 3070 ',
+    desc:
+      'Features 8GB of GDDR6 memory and clock speeds of up to 1830MHz',
+    price: '$799.99',
+    path: '/cart'
+  },
+];
+
+export const productData3060 = [
+  {
+    img: gpu3060,
+    alt: 'PC',
+    name: 'EVGA GeForce RTX 3060 ',
+    desc:
+      'Features 12GB of GDDR6 memory and clock speeds of up to 1882Mhz',
+    price: '$589.99',
+    path: '/cart'
+  },
+];
+
+//mobos
+
+export const productDataMasus = [
+  {
+    img: masus,
+    alt: 'PC',
+    name: 'ASUS ROG Maximus XIII Hero ',
+    desc:
+      'Ready for 2nd, 3rd Gen AMD Ryzen processors and 3rd Gen AMD Ryzen processors',
+    price: '$329.99',
+    path: '/cart'
+  },
+];
+
+
+export const productDataMgiga = [
+  {
+    img: mgiga,
+    alt: 'PC',
+    name: 'Gigabyte X570 AORUS MASTER ',
+    desc:
+      'Supports 1st, 2nd and 3rd Gen AMD Ryzen processors, plus more',
+    price: '$299.99',
+    path: '/cart'
+  },
+];
+
+export const productDataMmsi = [
+  {
+    img: mmsi,
+    alt: 'PC',
+    name: 'MSI B450 GAMING PRO Carbon Max',
+    desc:
+      'Designed for 1st, 2nd and 3rd Gen AMD Ryzen processors',
+    price: '$199.99',
     path: '/cart'
   },
 ];

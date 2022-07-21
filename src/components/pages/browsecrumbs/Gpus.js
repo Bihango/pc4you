@@ -2,17 +2,17 @@ import React from 'react';
 import '../Browse.css'
 import { Link } from 'react-router-dom';
 
-import CpusCard from './CpusCard';
+import GpusCard from './GpusCard';
 
-export function Cpus() {
+export function Gpus() {
     return (
         <div>
         <div className='browse-container'>
-        <h><Link to='/browse'>Browse</Link>  →  CPUs</h>
+        <h><Link to='/browse'>Browse</Link>  →  GPUs</h>
           <div class='browse-links'>
             <div className='browse-link-wrapper'>
 
-              <CpusCard/>
+              <GpusCard/>
             
             </div>
           </div>  
@@ -21,4 +21,4 @@ export function Cpus() {
       );
     }
     
-    export default Cpus;
+    export default Gpus;

@@ -2,17 +2,17 @@ import React from 'react';
 import '../Browse.css'
 import { Link } from 'react-router-dom';
 
-import CpusCard from './CpusCard';
+import MobosCard from './MobosCard';
 
-export function Cpus() {
+export function Mobos() {
     return (
         <div>
         <div className='browse-container'>
-        <h><Link to='/browse'>Browse</Link>  →  CPUs</h>
+        <h><Link to='/browse'>Browse</Link>  →  Motherboards</h>
           <div class='browse-links'>
             <div className='browse-link-wrapper'>
 
-              <CpusCard/>
+              <MobosCard/>
             
             </div>
           </div>  
@@ -21,4 +21,4 @@ export function Cpus() {
       );
     }
     
-    export default Cpus;
+    export default Mobos;
