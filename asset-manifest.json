@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pc4you/static/css/main.c8231755.css",
-    "main.js": "/pc4you/static/js/main.fb36d596.js",
+    "main.css": "/pc4you/static/css/main.0da5c713.css",
+    "main.js": "/pc4you/static/js/main.8c3841bc.js",
     "static/media/asus.png": "/pc4you/static/media/asus.5841df476e56b01a3331.png",
     "static/media/z73.png": "/pc4you/static/media/z73.6d792942bd4eea5477fb.png",
     "static/media/gigam.png": "/pc4you/static/media/gigam.cf12cc980ae594bbb4f1.png",
@@ -13,10 +13,12 @@
     "static/media/5600x.png": "/pc4you/static/media/5600x.400593a0db57a3d4d41a.png",
     "static/media/5800x.png": "/pc4you/static/media/5800x.df5e9a2b7d0742de2674.png",
     "static/media/3080.png": "/pc4you/static/media/3080.cd35f0505f05616e268b.png",
+    "static/media/emr.png": "/pc4you/static/media/emr.35b883a3f47e3c91a040.png",
     "static/media/white.png": "/pc4you/static/media/white.6e10655910cb5a8c9568.png",
     "static/media/sam.png": "/pc4you/static/media/sam.4330670cd77ce04608cc.png",
     "static/media/black.png": "/pc4you/static/media/black.c368b42a9009e7a07489.png",
     "static/media/rec-1.png": "/pc4you/static/media/rec-1.9ad6c19385547601043e.png",
+    "static/media/saph.png": "/pc4you/static/media/saph.bdbdfc5bdff3172effca.png",
     "static/media/evgap.png": "/pc4you/static/media/evgap.0390718e01653597261e.png",
     "static/media/mus.png": "/pc4you/static/media/mus.f3dee489840d085c35c7.png",
     "static/media/z63.png": "/pc4you/static/media/z63.5ea9ed0cf30cc487c10e.png",
@@ -37,11 +39,11 @@
     "static/media/user-2.png": "/pc4you/static/media/user-2.f5186bbab23136f668cf.png",
     "static/media/glass.png": "/pc4you/static/media/glass.296a40bab5342e292d1b.png",
     "index.html": "/pc4you/index.html",
-    "main.c8231755.css.map": "/pc4you/static/css/main.c8231755.css.map",
-    "main.fb36d596.js.map": "/pc4you/static/js/main.fb36d596.js.map"
+    "main.0da5c713.css.map": "/pc4you/static/css/main.0da5c713.css.map",
+    "main.8c3841bc.js.map": "/pc4you/static/js/main.8c3841bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8231755.css",
-    "static/js/main.fb36d596.js"
+    "static/css/main.0da5c713.css",
+    "static/js/main.8c3841bc.js"
   ]
 }
