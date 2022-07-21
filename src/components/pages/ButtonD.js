@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const STYLES = ['btn--primary', 'btn--outline'];
 
 const SIZES = ['btn--medium', 'btn--large'];
-
+//button for discover
 export const Button = (props) => {
     const checkButtonStyle = STYLES.includes(props.buttonStyle) 
     ? props.buttonStyle 

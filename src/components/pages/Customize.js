@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import '../../App.css'
 import './Customize.css';
-
+import { Button } from './ButtonC';
 import MB from './builder/MBcard/MB';
 import RAM from './builder/RAM/RAM';
 import Proc from './builder/Processor/Proc';
@@ -117,6 +117,11 @@ class Customize extends Component{
               <h1>                </h1>
               <Case onMotherChange={this.onMotherChange}/>
               </div>
+              <div><h1>    </h1> </div> 
+              <div id="specs5" style={{display: 'flex', justifyContent:'flex-end'}}>
+              <Button Link to ='/cart' className='btns' buttonStyle='btn--primary' buttonSize='btn--large'> Checkout</Button>
+        
+              </div>
     
             </div>
             <br/>
@@ -126,7 +131,7 @@ class Customize extends Component{
     
             </div>
           : <div id="back" className="fl w-100 center">
-            <h1 className='f1'>Your PC is Ready !!</h1> 
+            <h1 className='f1'>PC Ready for Checkout</h1> 
             <div id="cabinet2" className="fl w-50">
     
               { this.state.mother === 'msi' ? <img id="motherboard" alt="MB" src={require('./builder/MBcard/msib.png')} />
