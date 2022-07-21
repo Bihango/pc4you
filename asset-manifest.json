@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pc4you/static/css/main.0da5c713.css",
-    "main.js": "/pc4you/static/js/main.8c3841bc.js",
+    "main.js": "/pc4you/static/js/main.bede88aa.js",
     "static/media/asus.png": "/pc4you/static/media/asus.5841df476e56b01a3331.png",
     "static/media/z73.png": "/pc4you/static/media/z73.6d792942bd4eea5477fb.png",
     "static/media/gigam.png": "/pc4you/static/media/gigam.cf12cc980ae594bbb4f1.png",
@@ -31,8 +31,14 @@
     "static/media/gsk.png": "/pc4you/static/media/gsk.22632797f5364e0c1cf4.png",
     "static/media/hyper.png": "/pc4you/static/media/hyper.b63547cfc1ce9a414529.png",
     "static/media/cor.png": "/pc4you/static/media/cor.1bc511e43377a42a79fc.png",
+    "static/media/mmsi.jpg": "/pc4you/static/media/mmsi.f4d64c4eea4927507f7b.jpg",
+    "static/media/3060.jpg": "/pc4you/static/media/3060.d7033af63e836871ec78.jpg",
+    "static/media/3070.jpg": "/pc4you/static/media/3070.3ff291f15bf2a661ca9f.jpg",
     "static/media/std-1.png": "/pc4you/static/media/std-1.b6da809a92ea76a43ca3.png",
+    "static/media/mgiga.jpg": "/pc4you/static/media/mgiga.32f225e9d9869802a1b0.jpg",
     "static/media/std-2.png": "/pc4you/static/media/std-2.87051f938218e63b178f.png",
+    "static/media/masus.jpg": "/pc4you/static/media/masus.5f83e4383be810780d53.jpg",
+    "static/media/3080.jpg": "/pc4you/static/media/3080.4f69e36abecb107e5974.jpg",
     "static/media/std-3.png": "/pc4you/static/media/std-3.e124538a5d1acb0e6eb3.png",
     "static/media/user-3.png": "/pc4you/static/media/user-3.0545ac10975b8fc79372.png",
     "static/media/user-1.png": "/pc4you/static/media/user-1.b32ddc3627970b669685.png",
@@ -40,10 +46,10 @@
     "static/media/glass.png": "/pc4you/static/media/glass.296a40bab5342e292d1b.png",
     "index.html": "/pc4you/index.html",
     "main.0da5c713.css.map": "/pc4you/static/css/main.0da5c713.css.map",
-    "main.8c3841bc.js.map": "/pc4you/static/js/main.8c3841bc.js.map"
+    "main.bede88aa.js.map": "/pc4you/static/js/main.bede88aa.js.map"
   },
   "entrypoints": [
     "static/css/main.0da5c713.css",
-    "static/js/main.8c3841bc.js"
+    "static/js/main.bede88aa.js"
   ]
 }
