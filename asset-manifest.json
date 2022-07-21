@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pc4you/static/css/main.0da5c713.css",
-    "main.js": "/pc4you/static/js/main.bede88aa.js",
+    "main.css": "/pc4you/static/css/main.04b7c98c.css",
+    "main.js": "/pc4you/static/js/main.f1b2e619.js",
     "static/media/asus.png": "/pc4you/static/media/asus.5841df476e56b01a3331.png",
     "static/media/z73.png": "/pc4you/static/media/z73.6d792942bd4eea5477fb.png",
     "static/media/gigam.png": "/pc4you/static/media/gigam.cf12cc980ae594bbb4f1.png",
@@ -45,11 +45,11 @@
     "static/media/user-2.png": "/pc4you/static/media/user-2.f5186bbab23136f668cf.png",
     "static/media/glass.png": "/pc4you/static/media/glass.296a40bab5342e292d1b.png",
     "index.html": "/pc4you/index.html",
-    "main.0da5c713.css.map": "/pc4you/static/css/main.0da5c713.css.map",
-    "main.bede88aa.js.map": "/pc4you/static/js/main.bede88aa.js.map"
+    "main.04b7c98c.css.map": "/pc4you/static/css/main.04b7c98c.css.map",
+    "main.f1b2e619.js.map": "/pc4you/static/js/main.f1b2e619.js.map"
   },
   "entrypoints": [
-    "static/css/main.0da5c713.css",
-    "static/js/main.bede88aa.js"
+    "static/css/main.04b7c98c.css",
+    "static/js/main.f1b2e619.js"
   ]
 }
