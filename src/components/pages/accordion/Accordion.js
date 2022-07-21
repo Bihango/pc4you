@@ -16,6 +16,8 @@ const AccordionSection = styled.div`
   position: relative;
   height: 100vh;
   background: #fff;
+  margin-top: -240px;
+
 `;
 
 const Container = styled.div`
@@ -35,8 +37,8 @@ const Wrap = styled.div`
   cursor: pointer;
 
   h1 {
-    padding: 2rem;
-    font-size: 2rem;
+    padding: 1.8rem;
+    font-size: 1.6rem;
   }
 
   span {
@@ -57,7 +59,9 @@ const Dropdown = styled.div`
   border-top: 1px solid #BD11FA;
 
   p {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
+    
+    padding: 1.1rem;
   }
 `;
 
@@ -75,6 +79,7 @@ const Accordion = () => {
   };
 
   return (
+    
     <IconContext.Provider value={{ color: '#BD11FA', size: '25px' }}>
       <AccordionSection>
         <Container>

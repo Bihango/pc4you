@@ -11,6 +11,10 @@ import rec2 from '../images/rec-2.png';
 import rec3 from '../images/rec-3.png';
 
 
+import saph from '../images/saph.png';
+import emr from '../images/emr.png';
+
+
 
 // User type
 
@@ -102,4 +106,44 @@ export const productDataThree = [
     price: '$2999.99',
     path: '/customize'
   }
+
+];
+
+
+export const productDataPlatinum = [
+  {
+    img: rec2,
+    alt: 'PC',
+    name: 'Platinum Preset',
+    desc:
+      'Features a RTX 3080TI, Ryzen 5 5800, 1TB SSD 800W PSU and 32GB Ram  ',
+    price: '$2499.99',
+    path: '/cart'
+  },
+];
+
+
+export const productDataSapphaire = [
+  {
+    img: saph,
+    alt: 'PC',
+    name: 'Sapphaire Preset',
+    desc:
+      'Features a RTX 3070, Ryzen 5 5600x, 1TB SSD 750W PSU and 16GB Ram  ',
+    price: '$1599.99',
+    path: '/cart'
+  },
+];
+
+
+export const productDataEmerald = [
+  {
+    img: emr,
+    alt: 'PC',
+    name: 'Emerald Preset',
+    desc:
+      'Features a RTX 3060, Ryzen 5 3600x, 500GB SSD 650W PSU and 16GB Ram  ',
+    price: '$999.99',
+    path: '/cart'
+  },
 ];

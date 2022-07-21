@@ -14,20 +14,19 @@ export function Browse() {
               <div class='browse-link-items'>
               <h1>Prebuilts</h1>
                 <h2><h6><br></br></h6>
-                <Link to='/cpus'>Enthusiast PCs</Link><br></br>
-                <Link to='/cpus'>Basic PCs</Link><br></br>
-                <Link to='/cpus'>Pro PCs</Link><br></br>
-                <Link to='/cpus'>Mini PCs</Link>
+                <Link to='/enthusiast'>Enthusiast PCs</Link><br></br>
+                <Link to='/basic'>Basic PCs</Link><br></br>
+                <Link to='/pro'>Pro PCs</Link><br></br>
                 </h2>
               </div>
               
               <div class='browse-link-items'>
-                <h1>Peripherals</h1>
+              <h1>Components</h1>
                 <h2><h6><br></br></h6>
-                <Link to='/cpus'>Monitors</Link><br></br>
-                <Link to='/cpus'>Keyboards</Link><br></br>
-                <Link to='/cpus'>Headsets</Link><br></br>
-                <Link to='/cpus'>Mice</Link><br></br>
+                <Link to='/cpus'>CPUs</Link><br></br>
+                <Link to='/cpus'>Mobos</Link><br></br>
+                <Link to='/cpus'>GPUs</Link><br></br>
+                <Link to='/cpus'>PSUs</Link><br></br>
                 </h2>
               </div>
             </div>

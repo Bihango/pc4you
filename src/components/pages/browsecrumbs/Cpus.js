@@ -6,7 +6,7 @@ export function Cpus() {
     return (
         <div>
         <div className='browse-container'>
-        <h>Browse → Components → CPUs</h>
+        <h>Browse → <Link to='/browse'>Components</Link> → CPUs</h>
           <div class='browse-links'>
             <div className='browse-link-wrapper'>
 
