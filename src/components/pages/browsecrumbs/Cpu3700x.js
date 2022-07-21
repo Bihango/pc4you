@@ -16,7 +16,6 @@ export function Cpus() {
       />
                 </div>  
             </div>
-            <p>                                                                                 I wasnt able to fully complete my implementation yet but here is the mockup</p>
         </div>
       );
     }
